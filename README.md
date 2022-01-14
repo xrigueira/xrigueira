@@ -1,11 +1,11 @@
 # Hello people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Xurxo Rigueira and I'm a Mining and Energy Engineer who loves developing sowtware to make our lives easier and even more fun.
+My name is Xurxo Rigueira and I'm a Mining and Energy Engineer who loves developing software to make our lives easier and even more fun.
 
 ## About me
 
 - 👀 I’m interested in computer vision and machine learning.
-- 🌱 I’m currently learning develop more efficient and robust algorithms.
+- 🌱 I’m currently learning how to develop more efficient and robust algorithms.
 - 💞️ I’m looking to collaborate on research projects.
 
 ## 🛠  Technologies and tools
