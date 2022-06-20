@@ -1,4 +1,4 @@
-# Hello people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">
+# Hello people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 My name is Xurxo Rigueira and I'm a Mining and Energy Engineer who likes working on projects for social and environmental good.
 
