@@ -6,7 +6,7 @@ My name is Xurxo Rigueira and I'm a Mining and Energy Engineer who likes working
 
 - 👀 I’m interested in machine learning, functional data analysis, and computer vision.
 - 🌱 I’m currently learning how to develop more efficient and robust algorithms.
-- 💞️ I’m looking to collaborate on research projects and trying to get my Ph.D.
+- 💞️ I’m looking to collaborate on research projects and I'm trying to get my Ph.D.
 
 ## 🛠  Technologies and tools
 
