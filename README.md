@@ -4,8 +4,8 @@ My name is Xurxo Rigueira and I'm a Computer Science Ph.D. student and a Mining 
 
 ## About me
 
-- 👀 I’m interested in machine learning, functional data analysis, and computer vision.
-- 🌱 I’m currently learning how to develop generalizable and explainable ML-based environmental models.
+- 👀 I’m interested in anomaly detection and data forecasting.
+- 🌱 I’m currently learning how to develop generalizable and explainable machine learning-based environmental models.
 - 💞️ I’m looking to collaborate on research projects and I'm trying to get my Ph.D.
 
 ## 🛠  Technologies and tools
