@@ -1,12 +1,12 @@
 # Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-My name is Xurxo Rigueira and I'm a Computer Science Ph.D. Candidate and a Mining and Energy Engineer who likes working on projects for environmental and social good.
+My name is Xurxo Rigueira and I'm a Computer Science Ph.D. Candidate and a Mining and Energy Engineer who likes working on AI projects for environmental modeling.
 
 ## About me
 
 - 👀 I’m interested in anomaly detection and data forecasting.
-- 🌱 I’m currently learning how to develop generalizable and explainable machine learning-based environmental models.
-- 💞️ I’m looking to collaborate on research projects, and I'm trying to get my Ph.D.
+- 🌱 I’m currently researching generalizable and explainable machine learning algorithms for water resources and hydroclimate modeling.
+- 💞️ I’m looking to collaborate on research and educational projects, and I'm trying to finish my Ph.D.
 
 ## 🛠  Technologies and tools
 
